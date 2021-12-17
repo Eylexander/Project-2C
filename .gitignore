@@ -1,0 +1,7 @@
+## Useless Files
+/node_modules
+
+## Nodejs files
+# package-lock.json
+# package.json
+# app.js

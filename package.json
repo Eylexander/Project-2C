@@ -1,0 +1,28 @@
+{
+  "name": "project-2b",
+  "description": "Some Friend's ProtFolio",
+  "version": "0.0.1",
+  "main": "index",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eylexander/Project-2B.git"
+  },
+  "keywords": [
+    "bienjouie",
+    "project_2b",
+    "portfolio"
+  ],
+  "author": "Eylexander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eylexander/Project-2B/issues"
+  },
+  "homepage": "https://github.com/Eylexander/Project-2B#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15"
+  }
+}
